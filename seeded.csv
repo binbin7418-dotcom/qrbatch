@@ -1,0 +1,6 @@
+url,label
+https://shop.example.com/products/tee,Tee Navy M
+https://shop.example.com/products/dress,Dress Sand
+https://shop.example.com/products/tee,Tee Navy M (dup payload)
+,missing payload row
+https://shop.example.com/products/lamp,Lamp Preorder
